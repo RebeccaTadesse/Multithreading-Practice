@@ -8,3 +8,5 @@ server and simultaneously edit a drawing.
 Open in your preferred IDE, and run the main class Editor.java
 
 A graphical editor should open, providing you with the option to draw shapes (ellipses, rectangles, lines), move them, recolor them et cetera. To test multithreading capabilities, run Editor.java a second time. As you edit one graphical editor, the other should reflect that change concurrently.
+
+Note: Ensure that you have Java version 16 or higher.
